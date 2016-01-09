@@ -38,4 +38,6 @@ public class UF {
 			sz[i] += sz[j];
 		}
 	}
+	
+	// TEST
 }
